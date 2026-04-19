@@ -19,6 +19,8 @@ case "$(uname -s 2>/dev/null)" in
     echo
     echo "Файловые системы:"
     df -h 2>/dev/null
+    echo "Сетевые адаптеры:"
+    ipconfig 2>/dev/null
     exit 0
     ;;
 esac
@@ -76,7 +78,7 @@ echo "===== NETWORK ====="
 if command -v ip >/dev/null 2>&1; then
   ip -brief addr
 elif command -v ifconfig >/dev/null 2>&1; then
-  ifconfig
+  ipconfig
 else
   echo "No ip/ifconfig command found"
 fi
