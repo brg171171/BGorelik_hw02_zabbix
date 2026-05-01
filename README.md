@@ -12,7 +12,7 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 `При необходимости прикрепитe сюда скриншоты
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок1.png)`
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок1.png)`
 ![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок2.png)`
 ![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок3.png)`
 ![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок4.png)`
