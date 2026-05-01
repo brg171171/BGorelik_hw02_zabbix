@@ -12,11 +12,10 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 ![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок1.png)
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок2.png)`
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок3.png)`
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок4.png)`
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок5.png)`
-
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок2.png)
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок3.png)
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок4.png)
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок5.png)
 
 ---
 
@@ -31,10 +30,9 @@
 файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 скриншоты с успешно собранными сборками.
 
-`При необходимости прикрепитe сюда скриншоты
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок6.png)`
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок7.png)`
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок9.png)`
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок10.png)`
-![](C:\Program Files\Git\home\BGorelik_8_03\img\Снимок11.png)`
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок6.png)
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок7.png)
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок9.png)
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок10.png)
+![](https://github.com/brg171171/BGorelik_8_03/blob/dev/img/Снимок11.png)
 
