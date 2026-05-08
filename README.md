@@ -29,9 +29,9 @@
 Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 Приложите в файл README.md текст использованных команд в GitHub
 
-![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.png)
-![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.png)
-![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4_1.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.PNG)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4_1.PNG)
 ![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.png)
 
 Задание 3 со звёздочкой*
