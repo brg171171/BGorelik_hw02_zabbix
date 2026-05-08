@@ -11,7 +11,7 @@
 Приложите в файл README.md текст использованных команд в GitHub.
 
 ![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.png)
-![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.png)
 
 
 Задание 2
@@ -29,10 +29,10 @@
 Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 Приложите в файл README.md текст использованных команд в GitHub
 
-![](img\Снимок3.png)
-![](img\Снимок4.png)
-![](img\Снимок4_1.png)
-![](img\Снимок2.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4_1.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.png)
 
 Задание 3 со звёздочкой*
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
@@ -40,5 +40,5 @@
 Требования к результатам
 Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
 
-![](img\Снимок5.png)
-![](img\Снимок5_1.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5_1.png)
