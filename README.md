@@ -10,8 +10,8 @@
 Прикрепите в файл README.md скриншот авторизации в админке.
 Приложите в файл README.md текст использованных команд в GitHub.
 
-![](img\Снимок1.png)
-![](img\Снимок2.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.png)
 
 
 Задание 2
