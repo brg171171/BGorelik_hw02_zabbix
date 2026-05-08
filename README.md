@@ -40,5 +40,5 @@
 Требования к результатам
 Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
 
-![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5.png)
-![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5_1.png)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5.PNG)
+![](https://github.com/brg171171/BGorelik_hw02_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5_1.PNG)
