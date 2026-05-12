@@ -9,9 +9,14 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
+<<<<<<< HEAD
 ![](img\Снимок6.jpg)
 ![](img\Снимок1.PNG.jpg)
 ![](img\Снимок2.jpg)
+=======
+![Задание 1, скриншот 1](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG.jpg)
+![Задание 1, скриншот 2](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.jpg)
+>>>>>>> 06bcec8493138da2c64c2e8eeda5afd07e9833b6
 
 Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -36,9 +41,14 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
+<<<<<<< HEAD
 ![](img\Снимок7.jpg)
 ![](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок3.jpg)
 ![](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок4.jpg)
+=======
+![Задание 2-3, скриншот 1](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.jpg)
+![Задание 2-3, скриншот 2](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.jpg)
+>>>>>>> 06bcec8493138da2c64c2e8eeda5afd07e9833b6
 
 
 
@@ -52,6 +62,10 @@
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
+<<<<<<< HEAD
  ![](img\Снимок7.jpg)
  ![](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок5.jpg)
+=======
+ ![Задание 4](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5.jpg)
+>>>>>>> 06bcec8493138da2c64c2e8eeda5afd07e9833b6
 
