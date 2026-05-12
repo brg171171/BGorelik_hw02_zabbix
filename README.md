@@ -10,6 +10,7 @@
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 ![](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA6.jpg)
+![](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA10.jpg)
 ![](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG.jpg)
 ![](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.jpg)
 
