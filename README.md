@@ -50,5 +50,5 @@
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
- ![Задание 4](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок5.jpg)
+ ![Задание 4](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5.jpg)
 
