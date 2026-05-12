@@ -9,8 +9,9 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
-![Задание 1, скриншот 1](img\Снимок1.PNG.jpg)
-![Задание 1, скриншот 2](img\Снимок2.jpg)
+![](img\Снимок6.jpg)
+![](img\Снимок1.PNG.jpg)
+![](img\Снимок2.jpg)
 
 Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -35,8 +36,9 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![Задание 2-3, скриншот 1](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок3.jpg)
-![Задание 2-3, скриншот 2](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок4.jpg)
+![](img\Снимок7.jpg)
+![](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок3.jpg)
+![](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок4.jpg)
 
 
 
@@ -50,5 +52,6 @@
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
- ![Задание 4](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок5.jpg)
+ ![](img\Снимок7.jpg)
+ ![](C:\Program Files\Git\home\BGorelik_hw03_zabbix\BGorelik_hw03_zabbix\img\Снимок5.jpg)
 
