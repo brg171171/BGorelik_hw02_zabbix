@@ -10,7 +10,7 @@
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 ![Задание 1, скриншот 1](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG.jpg)
-![Задание 1, скриншот 2](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.jpg)
+![Задание 1, скриншот 2](https://github.com/brg171171/BGorelik_hw03_zabbix/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.jpg)
 
 Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
